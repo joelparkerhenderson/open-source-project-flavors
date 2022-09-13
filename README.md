@@ -39,7 +39,7 @@ This page is a work in progress. Constructive feedback welcome.
 
 **Broadly:** A project that is started and led by one developer, or tiny team, and gets so successful that the project is paid offering. Some projects do payments for services, or support, or subscriptions.
 
-**Examples:** Sidekiq, Avo. (can you suggest more?)
+**Examples:** Sidekiq, Avo, tarsnap. (can you suggest more?)
 
 **Typical Pros:** Excellent for company use, because the developer is responsive, responsible, available, and accepting money.
 
