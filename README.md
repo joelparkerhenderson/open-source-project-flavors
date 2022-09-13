@@ -39,7 +39,7 @@ This page is a work in progress. Constructive feedback welcome.
 
 **Broadly:** A project that is started and led by one developer, or tiny team, and gets so successful that the project is paid offering. Some projects do payments for services, or support, or subscriptions.
 
-**Examples:** Sidekiq, Avo, tarsnap. (can you suggest more?)
+**Examples:** Sidekiq, Avo, tarsnap . (can you suggest more?)
 
 **Typical Pros:** Excellent for company use, because the developer is responsive, responsible, available, and accepting money.
 
@@ -52,7 +52,7 @@ This page is a work in progress. Constructive feedback welcome.
 
 ## Startup Project
 
-**Broadly:** A "startup project" is our nickname for this project flavor: a project that is searching for a sustainable scalable business model, in the style of a typical Silicon Valley technology startup, aiming for venture capital to grow very large and very fast.
+**Broadly:** A project that is searching for a sustainable scalable business model, in the style of a typical Silicon Valley technology startup, aiming for venture capital to grow very large and very fast.
 
 **Examples:** OpenAI, FaunaDB. (can you suggest more?)
 
@@ -63,15 +63,28 @@ This page is a work in progress. Constructive feedback welcome.
 **Typical Risks:** If the startup succeeds, then the customer relationship with the startup may stagnate, or suffer, or become too unresponsive or too untenable to continue. If the startup fails, which happens much of the time, then you can be stranded. 
 
 
+## Choir Project
+
+**Broadly:** A project that evangelizes a significant perspective, often with many people helping, often with some communication challenges due to so many voices and so many viewpoints.
+
+**Examples:** Rust, Nix, Homebrew, systemd. (can you suggest more?)
+
+**Typical Pros:** If you're an ardent believer, then you'll love the project. 
+
+**Typical Cons:** Coming up to speed on the project may be difficult due to a need to learn  "all the choir songs" so to speak i.e. to learn the technology implementation plus the group's many perspectives and group's history. Altering the project tends to be challenging because it involves many people, and many points of view, and combinations of business needs plus technology needs. 
+
+**Typical Risks:** Poor documentation. Choir evangelism can come on too strong, or shut out alternate approaches, or overwhelm existing solutions, or accidentally miss important blind spots. Choir projects that get successful are ripe for takeover by a better-organized better-focused team that has a profit motive. 
+
+
 ## Briefcase Project
 
 **Broadly:** A "briefcase project" is our nickname for this project flavor: a project that is started by an ongoing successful company, and with a planned agenda, significant budget, long term commitment, and a team including people who are skilled at coding, documentation, outreach, and promotion.
 
-**Examples:** React, Rails. (can you suggest more?)
+**Examples:** React, Rails, Kubernetes. (can you suggest more?)
 
 **Typical Pros:** Well positioned, well marketed, well funded.
 
-**Typical Cons:** Over the long term, the project is ultimately beholded to the company. This can cause significant tension between the company's interests and the users' interests. 
+**Typical Cons:** Over the long term, the project is ultimately beholden to the company. This can cause significant tension between the company's interests and the users' interests. 
 
 **Typical Risks:** If you're trying to do something that's not in alignment with the company's own goals, then you're off the golden path, and might be in the weeds.
 
