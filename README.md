@@ -24,13 +24,13 @@ This page is a work in progress. Constructive feedback welcome.
 
 **Broadly:** A solo developer dedicates themselves to a project, including leading it over significant timelines, and into significant territories. The project does so well that it's a de facto tool of developers, and many people start to help the project, rely on it, and appreciate it. The leader is sometimes nicknamed a "benelovent dictator".
 
-**Examples:** Linux, Ruby, Ruby minitest, Rust ripgrep. (can you suggest more?)
+**Examples:** Linux, Ruby, Ruby minitest, Rust ripgrep, Actix. (can you suggest more?)
 
 **Typical Pros:** Excellent codebases, great responsiveness, clear boundaries, willingness to help newcomers, and keen technical decisions.
 
 **Typical Cons:** Paladin developers are so rare and valuable that they need time, energy, funding, and thick skin to handle dissent-- all these are often hard to come by.
 
-**Typical Risks:** Takeover by non-paladin agents, such as a big company; a past example is Google with Python; a current example is Amazon with Rust. Head-on competition from a company that is threatened by the paladin project; a long term example is Microsoft Windows head-on competition with Linux.
+**Typical Risks:** Burnout. Takeover by non-paladin agents, such as a big company; a past example is Google with Python; a current example is Amazon with Rust. Head-on competition from a company that is threatened by the paladin project; a long term example is Microsoft Windows head-on competition with Linux.
 
 **Typical Variations:** A paladin project can scale up by adding lieutenants, which can work very well in practice. A paladin project can attempt to grow into adjancent offerings by delegating variations to other teams, which doesn't seem to work well in practice.
 
