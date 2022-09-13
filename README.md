@@ -5,7 +5,7 @@ I love open source and work with many open source projects and developers. What 
 This page is a work in progress. Constructive feedback welcome.
 
 
-## Diamond Project
+## Diamond Flavor
 
 **Broadly:** A solo developer starts a project, leads it, completes it, and does it so well that the project is effectively perfect-- like a diamond in the rough. The developer correctly thinks of the project as complete, and moves on to other interests.
 
@@ -20,7 +20,7 @@ This page is a work in progress. Constructive feedback welcome.
 **Typical Variations:** A diamond project could be created by a small team, for example a few friends that have the same interest, or a small hackathon group, or a small coworker squad.
 
 
-## Paladin Project
+## Paladin Flavor
 
 **Broadly:** A solo developer dedicates themselves to a project, including leading it over significant timelines, and into significant territories. The project does so well that it's a de facto tool of developers, and many people start to help the project, rely on it, and appreciate it. The leader is sometimes nicknamed a "benelovent dictator".
 
@@ -35,7 +35,22 @@ This page is a work in progress. Constructive feedback welcome.
 **Typical Variations:** A paladin project can scale up by adding lieutenants, which can work very well in practice. A paladin project can attempt to grow into adjancent offerings by delegating variations to other teams, which doesn't seem to work well in practice.
 
 
-## Solopreneur Project
+## Ranger Flavor
+
+**Broadly:** A developer or small group has explored a large area, and discovered a need for regularization, or normalization, or standardization. The project has goals of interconnecting, or integrating, or proxying multiple disparate projects.
+
+**Examples:** React Native covering iOS and Android, Buf.build covering Protocol Buffers, Swagger/OpenAPI covering API documentation, Bluetooth. (can you suggest more?)
+
+**Typical Pros:** Pragmatic, based on real-world experience, and real-world needs. Willingness to work with many perspectives to help users with a common goal. Can help smooth out differences among many related projects.
+
+**Typical Cons:** You must learn the ranger project, plus whichever specific implementation you want. There can be impedence mismatches, such as the ranger project lagging behind a related project, or not offering the full feature set of the related project. Combinatorial explosion makes it hard for a ranger project to cover emerging offerings.
+
+**Typical Risks:** The models of a ranger project may differ than the models of the related projects; this tends to cause some confusion, and possibly some bugs. No obvious way to pay for support for the in-between areas where a ranger project overlays a related project. Some ranger projects have performance friction due to normalization and/or delegation.
+
+**Typical Variations:** A ranger project can sometimes grow well by using plugins, modules, subkits, and similar. Some ranger projects begin because of industry committees.
+
+
+## Solopreneur Flavor
 
 **Broadly:** A project that is started and led by one developer, or tiny team, and gets so successful that the project is paid offering. Some projects do payments for services, or support, or subscriptions.
 
@@ -50,7 +65,7 @@ This page is a work in progress. Constructive feedback welcome.
 **Typical Variations:** A solopreneur can add teammates to help.
 
 
-## Startup Project
+## Startup Flavor
 
 **Broadly:** A project that is searching for a sustainable scalable business model, in the style of a typical Silicon Valley technology startup, aiming for venture capital to grow very large and very fast.
 
@@ -62,8 +77,10 @@ This page is a work in progress. Constructive feedback welcome.
 
 **Typical Risks:** If the startup succeeds, then the customer relationship with the startup may stagnate, or suffer, or become too unresponsive or too untenable to continue. If the startup fails, which happens much of the time, then you can be stranded. 
 
+**Typical Variations:** A startup project doesn't need to be profitable yet, and doesn't need to have a viable business model yet.  
 
-## Choir Project
+
+## Choir Flavor
 
 **Broadly:** A project that evangelizes a significant perspective, often with many people helping, often with some communication challenges due to so many voices and so many viewpoints.
 
@@ -75,10 +92,12 @@ This page is a work in progress. Constructive feedback welcome.
 
 **Typical Risks:** Poor documentation. Choir evangelism can come on too strong, or shut out alternate approaches, or overwhelm existing solutions, or accidentally miss important blind spots. Choir projects that get successful are ripe for takeover by a better-organized better-focused team that has a profit motive. 
 
+**Typical Variations:** A choir project can be a spinoff of a larger organization that starts the project and team, grows it, then decides not to lead long term.
 
-## Briefcase Project
 
-**Broadly:** A "briefcase project" is our nickname for this project flavor: a project that is started by an ongoing successful company, and with a planned agenda, significant budget, long term commitment, and a team including people who are skilled at coding, documentation, outreach, and promotion.
+## Briefcase Flavor
+
+**Broadly:** a project that is started by an ongoing successful company, and with a planned agenda, significant budget, long term commitment, and a team including people who are skilled at coding, documentation, outreach, and promotion.
 
 **Examples:** React, Rails, Kubernetes. (can you suggest more?)
 
