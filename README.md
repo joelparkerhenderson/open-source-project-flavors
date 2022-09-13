@@ -5,7 +5,7 @@ I love open source. This writeup shares perspectives on different kinds of open 
 
 ## Diamond Project
 
-**Examples:** ruby Rust pulldown_cmark. (can you suggest more?)
+**Examples:** sixarm_ruby_unaccent gem (by me), Rust pulldown_cmark. (can you suggest more?)
 
 **Broadly:** A "diamond project" is our nickname for this project flavor: a solo developer starts a project, leads it, completes it, and does it so well that the project is effectively perfect-- like a diamond in the rough. The developer correctly thinks of the project as complete, and moves on to other interests.
 
