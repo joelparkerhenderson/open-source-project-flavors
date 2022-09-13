@@ -1,6 +1,6 @@
 # Open source project flavors
 
-I love open source and work with many open source projects and developers. What I've experienced is projects tend to cluster into broad categories that can be useful to nickname as "project flavors".
+I love open source and work with many open source projects and developers. What I've experienced is projects tend to cluster into broad categories that can be useful to nickname as "project flavors". A project can have multiple flavors; the flavors are intended to be useful perspectives to consider, and are not intended to be definitive and exclusive.
 
 This page is a work in progress. Constructive feedback welcome.
 
