@@ -1,13 +1,15 @@
 # Open source project flavors
 
-I love open source. This writeup shares perspectives on different kinds of open source project flavors i.e. broad categories of kinds of projects.
+I love open source and work with many open source projects and developers. What I've experienced is different kinds of open source projects that tend to cluster into some broad kinds of categories that I nickname "project flavors".
+
+Constructive feedback welcome.
 
 
 ## Diamond Project
 
-**Examples:** sixarm_ruby_unaccent gem (by me), Rust pulldown_cmark. (can you suggest more?)
+**Broadly:** A solo developer starts a project, leads it, completes it, and does it so well that the project is effectively perfect-- like a diamond in the rough. The developer correctly thinks of the project as complete, and moves on to other interests.
 
-**Broadly:** A "diamond project" is our nickname for this project flavor: a solo developer starts a project, leads it, completes it, and does it so well that the project is effectively perfect-- like a diamond in the rough. The developer correctly thinks of the project as complete, and moves on to other interests.
+**Examples:** sixarm_ruby_unaccent gem (my project), Rust pulldown_cmark (a project where I've recently done a pull request). (can you suggest more?)
 
 **Typical Pros:** A diamond project works really well.
 
@@ -20,9 +22,9 @@ I love open source. This writeup shares perspectives on different kinds of open 
 
 ## Paladin Project
 
-**Examples:** Linux, Ruby, Ruby minitest, Rust ripgrep. (can you suggest more?)
+**Broadly:** A solo developer dedicates themselves to a project, including leading it over significant timelines, and into significant territories. The project does so well that it's a de facto tool of developers, and many people start to help the project, rely on it, and appreciate it. The leader is sometimes nicknamed a "benelovent dictator".
 
-**Broadly:** A "paladin project" is our nickname for this project flavor: a solo developer dedicates themselves to a project, including leading it over significant timelines, and into significant territories. The project does so well that it's a de facto tool of developers, and many people start to help the project, rely on it, and appreciate it. The leader is sometimes nicknamed a "benelovent dictator".
+**Examples:** Linux, Ruby, Ruby minitest, Rust ripgrep. (can you suggest more?)
 
 **Typical Pros:** Excellent codebases, great responsiveness, clear boundaries, willingness to help newcomers, and keen technical decisions.
 
@@ -35,9 +37,9 @@ I love open source. This writeup shares perspectives on different kinds of open 
 
 ## Solopreneur Project
 
-**Examples:** Sidekiq, Avo. (can you suggest more?)
+**Broadly:** A project that is started and led by one developer, or tiny team, and gets so successful that the project is paid offering. Some projects do payments for services, or support, or subscriptions.
 
-**Broadly:** A "solopreneur project" is our nickname for this project flavor: a project that is started and led by one developer, or tiny team, and gets so successful that the project is paid offering. Some projects do payments for services, or support, or subscriptions.
+**Examples:** Sidekiq, Avo. (can you suggest more?)
 
 **Typical Pros:** Excellent for company use, because the developer is responsive, responsible, available, and accepting money.
 
@@ -50,9 +52,9 @@ I love open source. This writeup shares perspectives on different kinds of open 
 
 ## Startup Project
 
-**Examples:** OpenAI, FaunaDB. (can you suggest more?)
-
 **Broadly:** A "startup project" is our nickname for this project flavor: a project that is searching for a sustainable scalable business model, in the style of a typical Silicon Valley technology startup, aiming for venture capital to grow very large and very fast.
+
+**Examples:** OpenAI, FaunaDB. (can you suggest more?)
 
 **Typical Pros:** If you can be a key customer, then the startup project team is typically very responsive and helpful, especially with service and support.
 
@@ -63,9 +65,9 @@ I love open source. This writeup shares perspectives on different kinds of open 
 
 ## Briefcase Project
 
-**Examples:** React, Rails. (can you suggest more?)
-
 **Broadly:** A "briefcase project" is our nickname for this project flavor: a project that is started by an ongoing successful company, and with a planned agenda, significant budget, long term commitment, and a team including people who are skilled at coding, documentation, outreach, and promotion.
+
+**Examples:** React, Rails. (can you suggest more?)
 
 **Typical Pros:** Well positioned, well marketed, well funded.
 
